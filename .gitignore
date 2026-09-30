@@ -1,0 +1,4 @@
+# Never commit the local GitHub token file.
+chat.txt
+Chat
+Chat.txt
